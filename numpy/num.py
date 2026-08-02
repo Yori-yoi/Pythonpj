@@ -18,3 +18,4 @@ print(array[:,0:1])
 print(array[0:2,1:3])
 
 
+
