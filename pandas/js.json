@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Alice",
+        "Age": 23,
+        "City": "Kolkata",
+        "Department": "IT",
+        "Salary": 55000,
+        "Experience": 1
+    },
+    {
+        "Name": "Bob",
+        "Age": 31,
+        "City": "Delhi",
+        "Department": "HR",
+        "Salary": 62000,
+        "Experience": 6
+    },
+    {
+        "Name": "Charlie",
+        "Age": 27,
+        "City": "Mumbai",
+        "Department": "Sales",
+        "Salary": 48000,
+        "Experience": 3
+    },
+    {
+        "Name": "David",
+        "Age": 45,
+        "City": "Chennai",
+        "Department": "IT",
+        "Salary": 80000,
+        "Experience": 12
+    },
+    {
+        "Name": "Eva",
+        "Age": 29,
+        "City": "Bengaluru",
+        "Department": "Finance",
+        "Salary": 71000,
+        "Experience": 5
+    }
+]
